@@ -68,7 +68,7 @@ const HomePage: React.FC = () => {
             >
               <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl">
                 <img
-                  src="https://images.pexels.com/photos/6069008/pexels-photo-6069008.jpeg"
+                  src="/simplewallet/1.png"
                   alt="Handcrafted leather goods"
                   className="w-full h-full object-cover"
                 />

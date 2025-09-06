@@ -4,10 +4,11 @@
       "id": "wallet-classic",
       "name": "Classic Provençal Wallet",
       "description": "Handcrafted leather wallet inspired by the timeless elegance of Provence. Made from premium full-grain leather, this wallet develops a beautiful patina over time. Each piece is carefully stitched by hand using traditional techniques passed down through generations.",
-      "price": 89,
+      "price": 30,
       "images": [
-        "https://images.pexels.com/photos/6069008/pexels-photo-6069008.jpeg",
-        "https://images.pexels.com/photos/6069010/pexels-photo-6069010.jpeg"
+        "/simplewallet/1.png",
+        "/simplewallet/2.png",
+        "/simplewallet/3.png"
       ],
       "category": "wallets",
       "colors": ["Cognac", "Black", "Natural Tan", "Olive Green"],
@@ -16,48 +17,18 @@
       "featured": true
     },
     {
-      "id": "bag-tote",
-      "name": "Artisan Tote Bag",
-      "description": "Spacious tote bag crafted with love in the heart of Provence. Perfect for market days or city adventures, this bag combines functionality with rustic elegance. The natural leather will age beautifully, telling your unique story.",
-      "price": 195,
+      "id": "book-wallet",
+      "name": "Wallet 2",
+      "description": "Spacious wallet crafted with love in the heart of Provence. Perfect for city adventures, this wallet combines functionality with rustic elegance. The natural leather will age beautifully, telling your unique story.",
+      "price": 70,
       "images": [
-        "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
-        "https://images.pexels.com/photos/1152076/pexels-photo-1152076.jpeg"
+        "/bookwallet/1.jpeg"
       ],
       "category": "bags",
       "colors": ["Cognac", "Black", "Natural Tan"],
       "materials": ["Full-grain leather", "Brass hardware"],
       "dimensions": "40cm x 35cm x 12cm",
       "featured": true
-    },
-    {
-      "id": "belt-handstitched",
-      "name": "Hand-Stitched Leather Belt",
-      "description": "A testament to traditional craftsmanship, this belt is entirely hand-stitched using the saddle stitch technique. Inspired by the leather goods of Provençal artisans, it's designed to last a lifetime and improve with age.",
-      "price": 75,
-      "images": [
-        "https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg",
-        "https://images.pexels.com/photos/6069008/pexels-photo-6069008.jpeg"
-      ],
-      "category": "accessories",
-      "colors": ["Black", "Brown", "Natural Tan"],
-      "materials": ["Full-grain leather", "Solid brass buckle"],
-      "dimensions": "Available in all sizes",
-      "featured": false
-    },
-    {
-      "id": "keychain-lavender",
-      "name": "Lavender Keychain",
-      "description": "Small but mighty, this keychain carries the essence of Provence. Crafted from premium leather scraps to minimize waste, each piece is unique. A perfect introduction to our craftsmanship or a thoughtful gift.",
-      "price": 25,
-      "images": [
-        "https://images.pexels.com/photos/6069010/pexels-photo-6069010.jpeg",
-        "https://images.pexels.com/photos/6069008/pexels-photo-6069008.jpeg"
-      ],
-      "category": "accessories",
-      "colors": ["Lavender", "Natural Tan", "Sage Green"],
-      "materials": ["Premium leather", "Antique brass ring"],
-      "featured": false
     }
   ],
   "discounts": [
