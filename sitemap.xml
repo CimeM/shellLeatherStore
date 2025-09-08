@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://shell.rivieraapps.com/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Products Page -->
+  <url>
+    <loc>https://shell.rivieraapps.com/products</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Individual Products -->
+  <url>
+    <loc>https://shell.rivieraapps.com/products/wallet-classic</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/6069008/pexels-photo-6069008.jpeg</image:loc>
+      <image:title>Classic Provençal Wallet - Handcrafted Leather</image:title>
+      <image:caption>Premium full-grain leather wallet handcrafted in Provence</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://shell.rivieraapps.com/products/bag-tote</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg</image:loc>
+      <image:title>Artisan Tote Bag - Handcrafted Leather</image:title>
+      <image:caption>Spacious leather tote bag crafted in Provence</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://shell.rivieraapps.com/products/belt-handstitched</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/1152077/pexels-photo-1152077.jpeg</image:loc>
+      <image:title>Hand-Stitched Leather Belt - Traditional Craftsmanship</image:title>
+      <image:caption>Premium leather belt with traditional saddle stitch technique</image:caption>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://shell.rivieraapps.com/products/keychain-lavender</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://images.pexels.com/photos/6069010/pexels-photo-6069010.jpeg</image:loc>
+      <image:title>Lavender Keychain - Provence Inspired</image:title>
+      <image:caption>Small leather keychain inspired by Provence lavender fields</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://shell.rivieraapps.com/about</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Provence Page -->
+  <url>
+    <loc>https://shell.rivieraapps.com/provence</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Login Page -->
+  <url>
+    <loc>https://shell.rivieraapps.com/login</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,23 @@
+# Robots.txt for Shell Leather - Handcrafted Leather Goods
+# https://shell.rivieraapps.com
+
+User-agent: *
+Allow: /
+
+# Disallow private pages
+Disallow: /cart
+Disallow: /checkout
+Disallow: /login
+Disallow: /admin
+
+# Allow important pages
+Allow: /
+Allow: /products
+Allow: /about
+Allow: /provence
+
+# Sitemap location
+Sitemap: https://shell.rivieraapps.com/sitemap.xml
+
+# Crawl delay (optional - be respectful to search engines)
+Crawl-delay: 1
